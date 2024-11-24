@@ -1,0 +1,20 @@
+{
+  "name": "codica-js",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelggd/codica-js.git"
+  },
+  "author": "ang_gd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelggd/codica-js/issues"
+  },
+  "homepage": "https://github.com/angelggd/codica-js#readme"
+}
