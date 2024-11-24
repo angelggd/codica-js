@@ -1,6 +1,7 @@
 {
   "name": "codica-js",
   "version": "1.0.0",
+  "type": "module", 
   "description": "test npm",
   "main": "index.js",
   "scripts": {
